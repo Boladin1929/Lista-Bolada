@@ -1,0 +1,6 @@
+#EXTINF:-1,DAZN 1 HD
+http://us12.server.kkcharlie.xyz/HD_DAZN_1/video.m3u8?token=ef4ce6e6709bb2849effa99b9b137b9d
+#EXTINF:-1,DAZN 2 HD
+http://us14.server.kpdelta.xyz/HD_DAZN_2/video.m3u8?token=ef4ce6e6709bb2849effa99b9b137b9d
+#EXTINF:-1,CARTOON NETWORK FULL HD
+http://pl.server.kkecho.xyz/HD_CARTOON_NETWORK/video.m3u8?token=ef4ce6e6709bb2849effa99b9b137b9d
